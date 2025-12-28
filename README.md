@@ -11,5 +11,3 @@ The agent receives a Python source file as input and outputs a fully functional 
 - Azure OpenAI (ChatGPT)
 - Pytest
 
-## 📂 Project Structure
-
